@@ -1,1 +1,1 @@
-FROM uspls/study_xxqg:latest
+FROM unistey/vtu-xxgq-ng:latest
